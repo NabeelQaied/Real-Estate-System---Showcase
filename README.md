@@ -1,4 +1,4 @@
-# Real-Estate-System---Showcase
+# Real-Estate-System-Showcase-Public
 Real Estate Management System
 
 # Real Estate Management System
@@ -30,7 +30,7 @@ A comprehensive web-based system designed to manage real estate operations, incl
 ## Availability
 Private repository — Developed for a private company - Source code is not publicly available.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 # نظام إدارة العقارات
 
