@@ -1,4 +1,4 @@
-# Real-Estate-System-Showcase-Public
+# Real-Estate-System-Showcase
 Real Estate Management System
 
 # Real Estate Management System
